@@ -1,0 +1,6 @@
+In this project I built implementation for the game Reversi in OOP way.
+I also programmed several players for the game:
+- Real player (for human user to play)
+- Random player
+- Simple player: plays the moves the would turn the maximum disks of the opponent 
+- Stratgic Player: uses minmax algorithm to chose its next move
